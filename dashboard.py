@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 # ----------------------------------------------------------------------
 st.set_page_config(page_title="NovaMart Sales Dashboard", layout="wide")
 
-st.title("NovaMart Dashboard — umarul farook")  # TODO: put your real full name here
+st.title("NovaMart Dashboard — Umar")  # TODO: put your real full name here
 st.caption("Category & Sub-Category Sales Explorer (Version 1)")
 
 
@@ -22,10 +22,7 @@ st.caption("Category & Sub-Category Sales Explorer (Version 1)")
 # ----------------------------------------------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv(
-    "monthly_orders\\novamart_clean.csv",
-    parse_dates=["order_date", "ship_date"]
-)
+    df = pd.read_csv("monthly_orders\\novamart_clean.csv", parse_dates=["order_date", "ship_date"])
     return df
 
 
