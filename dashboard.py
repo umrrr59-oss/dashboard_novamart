@@ -2,31 +2,36 @@
 NovaMart Sales Dashboard — Version 1: Category & Sub-Category Sales Explorer
 Project 2 (Streamlit) — Virtual OJT Programme, Semester 2
 """
-
-import streamlit as st
+from pathlib import Path
 import pandas as pd
+import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
+@st.cache_data
+def load_data():
+    base_dir = Path("monthly_orders/novamart_clean.csv").resolve().parent
+    csv_file = base_dir / "monthly_orders" / "novamart_clean.csv"
+
+    st.write("Current folder:", base_dir)
+    st.write("CSV path:", csv_file)
+    st.write("CSV exists:", csv_file.exists())
+
+    if not csv_file.exists():
+        st.stop()
+
+    df = pd.read_csv(
+        csv_file,
+        parse_dates=["order_date", "ship_date"]
+    )
+
+    return df
+
+df = load_data()
 # ----------------------------------------------------------------------
 # Page setup
 # ----------------------------------------------------------------------
-st.set_page_config(page_title="NovaMart Sales Dashboard", layout="wide")
 
-st.title("NovaMart Dashboard — Umar")  # TODO: put your real full name here
-st.caption("Category & Sub-Category Sales Explorer (Version 1)")
-
-
-# ----------------------------------------------------------------------
-# Load data (cached so it isn't re-read on every interaction)
-# ----------------------------------------------------------------------
-@st.cache_data
-def load_data():
-    df = pd.read_csv("monthly_orders\\novamart_clean.csv", parse_dates=["order_date", "ship_date"])
-    return df
-
-
-df = load_data()
 
 # ----------------------------------------------------------------------
 # Sidebar filters
