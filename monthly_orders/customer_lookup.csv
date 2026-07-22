@@ -1,0 +1,241 @@
+customer_id,customer_name,segment,region,city
+CU0001,Taylor Hunt,Consumer,South,Atlanta
+CU0002,Alex Lee,Consumer,West,Seattle
+CU0003,Riley Roy,Consumer,East,Boston
+CU0004,Jamie Roy,Consumer,South,Atlanta
+CU0005,Jamie Fox,Home Office,East,New York
+CU0006,Alex Dean,Consumer,South,Atlanta
+CU0007,Taylor Roy,Corporate,East,New York
+CU0008,Riley Dean,Consumer,South,Atlanta
+CU0009,Casey Cruz,Corporate,West,Los Angeles
+CU0010,Jordan Shah,Consumer,East,New York
+CU0011,Quinn Hunt,Consumer,West,Seattle
+CU0012,Jamie Hunt,Consumer,Central,Chicago
+CU0013,Jamie Cruz,Consumer,Central,Dallas
+CU0014,Alex Lee,Corporate,South,Atlanta
+CU0015,Sam Wood,Consumer,East,New York
+CU0016,Jordan Roy,Home Office,East,Boston
+CU0017,Jamie Dean,Corporate,South,Miami
+CU0018,Riley Bell,Consumer,South,Atlanta
+CU0019,Morgan Cruz,Corporate,East,Boston
+CU0020,Drew Ray,Corporate,Central,Dallas
+CU0021,Riley Wood,Home Office,South,Miami
+CU0022,Casey Roy,Consumer,Central,Chicago
+CU0023,Taylor Hunt,Corporate,Central,Chicago
+CU0024,Quinn Roy,Corporate,East,New York
+CU0025,Jordan Fox,Consumer,West,Seattle
+CU0026,Casey Roy,Consumer,South,Atlanta
+CU0027,Jamie Shah,Consumer,East,New York
+CU0028,Alex Roy,Consumer,East,Boston
+CU0029,Casey Hunt,Home Office,West,Los Angeles
+CU0030,Sam Lee,Corporate,West,Los Angeles
+CU0031,Jordan Dean,Consumer,South,Atlanta
+CU0032,Jamie Cruz,Consumer,Central,Dallas
+CU0033,Drew Cruz,Consumer,South,Miami
+CU0034,Quinn Bell,Corporate,East,New York
+CU0035,Riley Cruz,Corporate,Central,Dallas
+CU0036,Casey Fox,Corporate,Central,Chicago
+CU0037,Jordan Bell,Corporate,West,Seattle
+CU0038,Casey Dean,Consumer,South,Miami
+CU0039,Quinn Roy,Consumer,East,Boston
+CU0040,Casey Hunt,Consumer,West,Los Angeles
+CU0041,Sam Dean,Corporate,South,Miami
+CU0042,Jamie Ray,Home Office,Central,Dallas
+CU0043,Drew Ray,Corporate,South,Miami
+CU0044,Quinn Bell,Home Office,Central,Chicago
+CU0045,Quinn Lee,Corporate,South,Miami
+CU0046,Morgan Bell,Corporate,South,Miami
+CU0047,Morgan Shah,Consumer,East,Boston
+CU0048,Alex Dean,Corporate,West,Los Angeles
+CU0049,Sam Bell,Corporate,Central,Dallas
+CU0050,Morgan Ray,Corporate,West,Los Angeles
+CU0051,Drew Ray,Consumer,South,Atlanta
+CU0052,Sam Hunt,Home Office,East,Boston
+CU0053,Alex Lee,Corporate,East,New York
+CU0054,Casey Ray,Corporate,South,Miami
+CU0055,Drew Cruz,Corporate,West,Seattle
+CU0056,Jordan Wood,Corporate,East,New York
+CU0057,Casey Lee,Corporate,Central,Dallas
+CU0058,Morgan Dean,Corporate,East,New York
+CU0059,Sam Wood,Consumer,South,Atlanta
+CU0060,Quinn Dean,Consumer,South,Miami
+CU0061,Jamie Cruz,Consumer,West,Los Angeles
+CU0062,Morgan Dean,Consumer,Central,Dallas
+CU0063,Alex Lee,Consumer,Central,Chicago
+CU0064,Riley Roy,Home Office,West,Los Angeles
+CU0065,Quinn Dean,Corporate,South,Atlanta
+CU0066,Morgan Cruz,Home Office,West,Seattle
+CU0067,Jamie Hunt,Corporate,East,Boston
+CU0068,Jamie Ray,Consumer,West,Seattle
+CU0069,Alex Shah,Consumer,East,New York
+CU0070,Casey Wood,Consumer,Central,Dallas
+CU0071,Riley Wood,Consumer,East,Boston
+CU0072,Jordan Fox,Consumer,South,Atlanta
+CU0073,Jordan Wood,Home Office,West,Los Angeles
+CU0074,Morgan Wood,Consumer,Central,Chicago
+CU0075,Casey Dean,Consumer,West,Seattle
+CU0076,Jordan Lee,Corporate,Central,Dallas
+CU0077,Alex Lee,Corporate,South,Atlanta
+CU0078,Taylor Ray,Consumer,South,Miami
+CU0079,Morgan Bell,Consumer,Central,Chicago
+CU0080,Drew Bell,Corporate,South,Atlanta
+CU0081,Alex Roy,Corporate,East,New York
+CU0082,Casey Ray,Consumer,East,New York
+CU0083,Taylor Wood,Consumer,Central,Chicago
+CU0084,Morgan Hunt,Corporate,South,Atlanta
+CU0085,Riley Ray,Corporate,West,Seattle
+CU0086,Taylor Lee,Corporate,East,New York
+CU0087,Sam Roy,Corporate,South,Miami
+CU0088,Jordan Bell,Consumer,Central,Chicago
+CU0089,Drew Roy,Consumer,West,Los Angeles
+CU0090,Riley Bell,Consumer,South,Miami
+CU0091,Alex Ray,Home Office,West,Seattle
+CU0092,Casey Fox,Home Office,South,Miami
+CU0093,Taylor Bell,Consumer,East,New York
+CU0094,Casey Roy,Consumer,East,Boston
+CU0095,Riley Fox,Consumer,South,Atlanta
+CU0096,Riley Fox,Home Office,East,Boston
+CU0097,Alex Bell,Corporate,Central,Dallas
+CU0098,Sam Cruz,Home Office,Central,Dallas
+CU0099,Drew Dean,Consumer,East,Boston
+CU0100,Alex Hunt,Corporate,Central,Dallas
+CU0101,Taylor Wood,Corporate,South,Miami
+CU0102,Riley Dean,Consumer,West,Los Angeles
+CU0103,Quinn Bell,Consumer,South,Miami
+CU0104,Riley Wood,Home Office,East,New York
+CU0105,Riley Fox,Consumer,East,New York
+CU0106,Drew Hunt,Consumer,Central,Dallas
+CU0107,Taylor Lee,Corporate,South,Miami
+CU0108,Sam Dean,Consumer,East,New York
+CU0109,Casey Cruz,Consumer,Central,Dallas
+CU0110,Jordan Wood,Consumer,West,Seattle
+CU0111,Riley Shah,Consumer,East,New York
+CU0112,Alex Hunt,Corporate,South,Atlanta
+CU0113,Taylor Hunt,Corporate,South,Atlanta
+CU0114,Riley Roy,Corporate,West,Los Angeles
+CU0115,Taylor Cruz,Consumer,East,Boston
+CU0116,Jamie Wood,Home Office,East,Boston
+CU0117,Alex Hunt,Consumer,South,Atlanta
+CU0118,Alex Lee,Consumer,South,Miami
+CU0119,Sam Fox,Consumer,West,Seattle
+CU0120,Alex Wood,Corporate,East,Boston
+CU0121,Sam Dean,Consumer,West,Los Angeles
+CU0122,Casey Ray,Home Office,East,Boston
+CU0123,Sam Dean,Home Office,Central,Dallas
+CU0124,Alex Bell,Consumer,East,New York
+CU0125,Jamie Ray,Consumer,East,Boston
+CU0126,Quinn Cruz,Consumer,South,Atlanta
+CU0127,Morgan Roy,Corporate,South,Miami
+CU0128,Jordan Shah,Home Office,East,New York
+CU0129,Quinn Roy,Home Office,South,Atlanta
+CU0130,Jordan Fox,Home Office,Central,Chicago
+CU0131,Riley Lee,Consumer,Central,Chicago
+CU0132,Sam Hunt,Corporate,Central,Chicago
+CU0133,Morgan Ray,Corporate,West,Los Angeles
+CU0134,Morgan Fox,Home Office,Central,Chicago
+CU0135,Quinn Lee,Consumer,East,New York
+CU0136,Alex Dean,Consumer,Central,Chicago
+CU0137,Jordan Roy,Consumer,South,Miami
+CU0138,Casey Dean,Home Office,South,Atlanta
+CU0139,Jamie Ray,Corporate,West,Los Angeles
+CU0140,Jamie Roy,Home Office,East,New York
+CU0141,Jamie Fox,Corporate,South,Atlanta
+CU0142,Quinn Dean,Consumer,Central,Chicago
+CU0143,Riley Ray,Corporate,South,Atlanta
+CU0144,Morgan Cruz,Consumer,West,Seattle
+CU0145,Jamie Hunt,Corporate,South,Atlanta
+CU0146,Casey Wood,Consumer,East,New York
+CU0147,Quinn Wood,Corporate,West,Seattle
+CU0148,Alex Shah,Corporate,South,Atlanta
+CU0149,Morgan Cruz,Corporate,West,Los Angeles
+CU0150,Riley Fox,Consumer,South,Miami
+CU0151,Jamie Dean,Home Office,Central,Chicago
+CU0152,Alex Hunt,Corporate,East,Boston
+CU0153,Casey Wood,Consumer,South,Miami
+CU0154,Sam Lee,Consumer,South,Miami
+CU0155,Sam Wood,Consumer,South,Atlanta
+CU0156,Jordan Lee,Home Office,East,New York
+CU0157,Sam Ray,Corporate,South,Atlanta
+CU0158,Jordan Hunt,Home Office,South,Atlanta
+CU0159,Morgan Fox,Home Office,Central,Chicago
+CU0160,Quinn Fox,Home Office,South,Atlanta
+CU0161,Riley Hunt,Corporate,Central,Chicago
+CU0162,Casey Ray,Consumer,South,Atlanta
+CU0163,Drew Wood,Corporate,Central,Dallas
+CU0164,Taylor Lee,Corporate,Central,Chicago
+CU0165,Jamie Ray,Corporate,West,Los Angeles
+CU0166,Jamie Ray,Consumer,Central,Dallas
+CU0167,Quinn Cruz,Consumer,South,Miami
+CU0168,Sam Shah,Consumer,Central,Chicago
+CU0169,Morgan Ray,Home Office,South,Atlanta
+CU0170,Drew Ray,Home Office,South,Atlanta
+CU0171,Quinn Fox,Consumer,West,Seattle
+CU0172,Casey Lee,Home Office,Central,Chicago
+CU0173,Taylor Cruz,Corporate,West,Seattle
+CU0174,Sam Lee,Corporate,East,New York
+CU0175,Riley Fox,Consumer,Central,Dallas
+CU0176,Taylor Roy,Consumer,East,New York
+CU0177,Taylor Lee,Corporate,West,Los Angeles
+CU0178,Drew Lee,Consumer,West,Los Angeles
+CU0179,Drew Bell,Home Office,South,Atlanta
+CU0180,Jamie Bell,Home Office,Central,Chicago
+CU0181,Casey Dean,Home Office,East,New York
+CU0182,Taylor Fox,Consumer,East,Boston
+CU0183,Riley Lee,Corporate,Central,Dallas
+CU0184,Jamie Lee,Consumer,East,New York
+CU0185,Sam Shah,Consumer,East,New York
+CU0186,Taylor Dean,Consumer,East,New York
+CU0187,Taylor Bell,Home Office,East,Boston
+CU0188,Quinn Lee,Home Office,South,Miami
+CU0189,Sam Fox,Corporate,East,New York
+CU0190,Quinn Lee,Consumer,East,New York
+CU0191,Jordan Dean,Corporate,West,Los Angeles
+CU0192,Jamie Fox,Home Office,Central,Dallas
+CU0193,Sam Shah,Consumer,East,New York
+CU0194,Casey Bell,Consumer,West,Seattle
+CU0195,Riley Bell,Corporate,South,Miami
+CU0196,Jamie Lee,Consumer,East,Boston
+CU0197,Casey Fox,Corporate,West,Seattle
+CU0198,Morgan Hunt,Corporate,East,Boston
+CU0199,Riley Shah,Home Office,Central,Dallas
+CU0200,Quinn Shah,Consumer,East,Boston
+CU0201,Quinn Lee,Consumer,South,Miami
+CU0202,Alex Wood,Corporate,Central,Chicago
+CU0203,Alex Bell,Corporate,South,Atlanta
+CU0204,Morgan Bell,Home Office,Central,Dallas
+CU0205,Jordan Lee,Consumer,Central,Dallas
+CU0206,Morgan Shah,Consumer,East,New York
+CU0207,Jordan Ray,Corporate,Central,Dallas
+CU0208,Morgan Ray,Corporate,West,Seattle
+CU0209,Sam Lee,Corporate,Central,Dallas
+CU0210,Morgan Bell,Corporate,East,Boston
+CU0211,Jamie Cruz,Consumer,Central,Chicago
+CU0212,Jordan Dean,Corporate,East,Boston
+CU0213,Drew Wood,Consumer,South,Atlanta
+CU0214,Quinn Dean,Home Office,Central,Chicago
+CU0215,Drew Hunt,Corporate,East,Boston
+CU0216,Alex Shah,Corporate,South,Miami
+CU0217,Jordan Cruz,Consumer,Central,Dallas
+CU0218,Taylor Ray,Corporate,East,New York
+CU0219,Sam Fox,Consumer,West,Los Angeles
+CU0220,Drew Dean,Consumer,Central,Dallas
+CU0221,Casey Ray,Corporate,South,Miami
+CU0222,Drew Wood,Consumer,West,Los Angeles
+CU0223,Drew Dean,Consumer,Central,Dallas
+CU0224,Jordan Fox,Consumer,East,New York
+CU0225,Sam Dean,Consumer,West,Los Angeles
+CU0226,Quinn Ray,Consumer,East,Boston
+CU0227,Jamie Cruz,Corporate,West,Los Angeles
+CU0228,Taylor Ray,Corporate,West,Los Angeles
+CU0229,Drew Bell,Corporate,Central,Chicago
+CU0230,Riley Hunt,Consumer,Central,Dallas
+CU0231,Riley Hunt,Consumer,West,Los Angeles
+CU0232,Casey Ray,Consumer,Central,Chicago
+CU0233,Alex Hunt,Consumer,East,Boston
+CU0234,Jamie Ray,Consumer,West,Los Angeles
+CU0235,Sam Roy,Consumer,East,New York
+CU0236,Jamie Lee,Home Office,South,Miami
+CU0237,Jordan Ray,Consumer,West,Seattle
+CU0238,Casey Cruz,Consumer,Central,Dallas
+CU0239,Morgan Roy,Corporate,South,Atlanta
+CU0240,Sam Cruz,Home Office,East,New York

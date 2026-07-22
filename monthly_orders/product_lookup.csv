@@ -1,0 +1,25 @@
+product_id,product_name,category,sub_category,unit_cost,list_price
+PR501,Galaxy S,Technology,Phones,713.41,1040.06
+PR502,Pixel Mini,Technology,Phones,162.44,317.2
+PR503,iView 11,Technology,Phones,98.09,154.89
+PR504,USB Hub,Technology,Accessories,426.59,727.92
+PR505,BT Mouse,Technology,Accessories,112.52,194.24
+PR506,Keyboard X,Technology,Accessories,328.28,653.8
+PR507,LaserJet 100,Technology,Machines,19.85,42.69
+PR508,InkFlow 20,Technology,Machines,118.24,229.45
+PR509,Shredder S,Technology,Machines,336.21,662.47
+PR510,Task Chair,Furniture,Chairs,166.81,242.64
+PR511,Mesh Chair,Furniture,Chairs,62.67,118.81
+PR512,Standing Desk,Furniture,Tables,507.56,696.95
+PR513,Meeting Table,Furniture,Tables,196.03,254.04
+PR514,4-Shelf Case,Furniture,Bookcases,160.03,264.97
+PR515,Corner Case,Furniture,Bookcases,316.78,572.31
+PR516,Ring Binder,Office Supplies,Binders,4.88,9.64
+PR517,Poly Binder,Office Supplies,Binders,47.86,88.44
+PR518,Copy Paper,Office Supplies,Paper,34.0,67.65
+PR519,Cardstock,Office Supplies,Paper,7.19,11.26
+PR520,Sticky Notes,Office Supplies,Paper,5.21,9.9
+PR521,Storage Box,Office Supplies,Storage,37.98,49.8
+PR522,File Cabinet,Office Supplies,Storage,22.02,41.69
+PR523,Marker Set,Office Supplies,Art,38.65,51.03
+PR524,Sketch Pad,Office Supplies,Art,65.94,84.51
