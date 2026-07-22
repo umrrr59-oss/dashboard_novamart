@@ -22,7 +22,10 @@ st.caption("Category & Sub-Category Sales Explorer (Version 1)")
 # ----------------------------------------------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("monthly_orders\\novamart_clean.csv", parse_dates=["order_date", "ship_date"])
+    df = pd.read_csv(
+    "monthly_orders\\novamart_clean.csv",
+    parse_dates=["order_date", "ship_date"]
+)
     return df
 
 
