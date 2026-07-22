@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 @st.cache_data
 def load_data():
-    base_dir = Path("monthly_orders/novamart_clean.csv").resolve().parent
+    base_dir = Path("/mount/src/dashboard_novamart/monthly_orders/monthly_orders/novamart_clean.csv").resolve().parent
     csv_file = base_dir / "monthly_orders" / "novamart_clean.csv"
 
     st.write("Current folder:", base_dir)
